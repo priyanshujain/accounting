@@ -24,3 +24,4 @@
     * [Accrual Basis](docs/terms/accrual-basis.md)
     * [Purchase Order](docs/terms/purchase-order.md)
     * [Credit Note](docs/terms/credit-note.md)
+  * [References](docs/references.md)
